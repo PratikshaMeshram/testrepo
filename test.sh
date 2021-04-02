@@ -1,3 +1,3 @@
 #!/bin/bash
-touch file{1..5}
-rm -rf file2
+touch fileFromGit test
+rm -rf test
